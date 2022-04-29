@@ -36,7 +36,7 @@
 ```html
 <ul>
   <li class="item1"></li>
-  <li class="item2"></li>
+  <li class="item2"></li>"
   <li class="item3"></li>
 </ul>
 ```
